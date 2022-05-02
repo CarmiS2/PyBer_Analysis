@@ -7,11 +7,11 @@ The purpose of this assignment is to perform exploratory analysis to summarize t
 The Pyber Summary Dataframe, we were able to provide a detailed overview of the Pyber’s total rides, divers and fares. As well as an average fare per ride and per driver broken down based on the type of cities: rural, urban, suburban. Based off this data frame we can see that there is a higher utilization in urban areas, with total rides at 1,625 and total fare amount is $39,854. In contrast, within rural areas total rides in this city type are 125 and total fares at $4,327. 
 In terms of cost, riders in rural areas will spend, on average, $10 more dollars than those in urban areas per ride. Riders spend around $35 in rural areas and only $24 in urban areas. In terms of driver cost, it is a far better market in urban areas, with an average of $17, compared to rural and suburban areas with an average fare to drivers is $55 and $40 in those city types. 
 
-{image}
+![this is an image](analysis/Pyber_summary_DF.PNG)
 
 The multiple-line chart “Total Fare by City Type” better supports the data found in our data frame by providing a visual representation of trends for total fares in rural, urban and suburban cities between January 1st to April 28th of 2019. From this chart we can see that urban areas consistently bring in a higher revenue of total fares every month, after which are suburban cities and the least amount of fares are those within rural areas. Also worth noting the chart illustrates a similar peak for all three city types around the end of February 2019. 
 
-{image}
+![this is an image](analysis/Pyber_fare_summary2.png)
 
 ## Pyber Analysis Summary:
 Based on the data found three business recommendation to Pyber decision makers are as follows:
