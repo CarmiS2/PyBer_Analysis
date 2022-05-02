@@ -15,6 +15,6 @@ The multiple-line chart “Total Fare by City Type” better supports the data f
 
 ## Pyber Analysis Summary:
 Based on the data found three business recommendation to Pyber decision makers are as follows:
-It may be worth looking and collecting data for the distance traveled based on each city type to better understand other possible factors that could possibly contribute to the high fare cost for riders in rural areas and the low fares for drivers in urban areas. 
-For suburban cities there are far more rides, 625, then drivers, 490, which could discourage riders from using the Pyber service if there are long wait times for riders. Possibly marketing for more drivers within these areas will increase utilization and revenue. 
-There is a far larger use of the Pyber in urban cities for both riders and drivers but with a low average fare for drivers compared to rural areas this could discourage future drivers. With more of the demand being in urban areas average fare per driver should be increased to encourage more drivers. 
+- It may be worth looking and collecting data for the distance traveled based on each city type to better understand other possible factors that could possibly contribute to the high fare cost for riders in rural areas and the low fares for drivers in urban areas. 
+- For suburban cities there are far more rides, 625, then drivers, 490, which could discourage riders from using the Pyber service if there are long wait times for riders. Possibly marketing for more drivers within these areas will increase utilization and revenue. 
+- There is a far larger use of the Pyber in urban cities for both riders and drivers but with a low average fare for drivers compared to rural areas this could discourage future drivers. With more of the demand being in urban areas average fare per driver should be increased to encourage more drivers. 
